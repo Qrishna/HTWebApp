@@ -1,7 +1,6 @@
 
 #### Getting Started
 ```
-cd HaxIOT
 dotnet build
 ```
 
@@ -9,4 +8,8 @@ dotnet build
 ```
 dotnet run
 ```
+
+#### To do
+- containerize with docker
+- get it production ready 
 
